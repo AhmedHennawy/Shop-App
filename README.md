@@ -21,12 +21,19 @@ E-Commerce mobile app with cross-platform(Flutter) lets the user register or log
   <tr>
     <td>Authentication</td>
      <td>Home</td>
-     <td>Drawer</td>
-     <td>Edit/Delete Product</td>
   </tr>
   <tr>
     <td><img src="ScreenShots/shop1.png" width=270 height=480></td>
    <td><img src="ScreenShots/shop2.png" width=270 height=480></td>
+</tr>
+ </table>
+ 
+ <table>
+  <tr>
+     <td>Drawer</td>
+     <td>Edit/Delete Product</td>
+  </tr>
+  <tr>
    <td><img src="ScreenShots/shop3.png" width=270 height=480></td>
     <td><img src="ScreenShots/shop4.png" width=270 height=480></td>
 </tr>
