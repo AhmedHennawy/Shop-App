@@ -5,15 +5,12 @@ E-Commerce mobile app with cross-platform(Flutter) lets the user register or log
 - Authentication: Firebase Authentication
 - Backend: Firebase Firestore
 - State management: 
-   - Bloc Design Pattern (not Bloc packages) (Streams and StreamBuilder - RxDart)
    - Provider Package with ValeNotifier and ChangeNotifier
  
 - Packages:
    - firebase_core
    - firebase_auth
    - cloud_firestore
-   - google_sign_in
-   - rxdart
    - provider
    - intl
    
